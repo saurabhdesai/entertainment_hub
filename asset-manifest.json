@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%20//saurabhdesai.github.io/entertainment_hub.io/static/css/main.2987f705.css",
-    "main.js": "/%20//saurabhdesai.github.io/entertainment_hub.io/static/js/main.37f7f240.js",
-    "static/js/787.384975f3.chunk.js": "/%20//saurabhdesai.github.io/entertainment_hub.io/static/js/787.384975f3.chunk.js",
-    "index.html": "/%20//saurabhdesai.github.io/entertainment_hub.io/index.html",
-    "main.2987f705.css.map": "/%20//saurabhdesai.github.io/entertainment_hub.io/static/css/main.2987f705.css.map",
-    "main.37f7f240.js.map": "/%20//saurabhdesai.github.io/entertainment_hub.io/static/js/main.37f7f240.js.map",
-    "787.384975f3.chunk.js.map": "/%20//saurabhdesai.github.io/entertainment_hub.io/static/js/787.384975f3.chunk.js.map"
+    "main.css": "/entertainment_hub.io/static/css/main.2987f705.css",
+    "main.js": "/entertainment_hub.io/static/js/main.5885e9ae.js",
+    "static/js/787.384975f3.chunk.js": "/entertainment_hub.io/static/js/787.384975f3.chunk.js",
+    "index.html": "/entertainment_hub.io/index.html",
+    "main.2987f705.css.map": "/entertainment_hub.io/static/css/main.2987f705.css.map",
+    "main.5885e9ae.js.map": "/entertainment_hub.io/static/js/main.5885e9ae.js.map",
+    "787.384975f3.chunk.js.map": "/entertainment_hub.io/static/js/787.384975f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2987f705.css",
-    "static/js/main.37f7f240.js"
+    "static/js/main.5885e9ae.js"
   ]
 }
