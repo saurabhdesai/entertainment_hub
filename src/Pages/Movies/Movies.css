@@ -1,0 +1,17 @@
+.movies {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.movies-title {
+  font-size: medium;
+}
+
+@media (max-width: 1000px) {
+  .movies-title {
+    /* display: flex;
+    padding-top: 50%; */
+    margin-top: 70px;
+    font-size: medium;
+  }
+}
