@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/entertainment_hub.io/static/css/main.2987f705.css",
-    "main.js": "/entertainment_hub.io/static/js/main.8c075758.js",
+    "main.js": "/entertainment_hub.io/static/js/main.32646e89.js",
     "static/js/787.384975f3.chunk.js": "/entertainment_hub.io/static/js/787.384975f3.chunk.js",
     "index.html": "/entertainment_hub.io/index.html",
     "main.2987f705.css.map": "/entertainment_hub.io/static/css/main.2987f705.css.map",
-    "main.8c075758.js.map": "/entertainment_hub.io/static/js/main.8c075758.js.map",
+    "main.32646e89.js.map": "/entertainment_hub.io/static/js/main.32646e89.js.map",
     "787.384975f3.chunk.js.map": "/entertainment_hub.io/static/js/787.384975f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2987f705.css",
-    "static/js/main.8c075758.js"
+    "static/js/main.32646e89.js"
   ]
 }
